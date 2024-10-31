@@ -7,7 +7,7 @@ No arquivo JavaScript há algumas ações manuais inseridas para fins de estudo 
 
 TECNOLOGIAS UTILIZADAS:
 
-JAVASCRIPT;
-HTML5;
-CSS3;
-NODEJS;
+#JAVASCRIPT;
+#HTML5;
+#CSS3;
+#NODEJS;
